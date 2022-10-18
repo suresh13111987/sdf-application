@@ -1,0 +1,599 @@
+/* #baronechart
+{
+    max-width:100% !important;
+}
+#bartwochart
+{
+    max-width:100% !important;
+}
+#lineChartcomponent
+{
+    max-width: 100% !important;
+}
+#barthreechart
+{
+    max-width: 100% !important;
+}
+@media screen and (max-width:500px){
+    #baronechart
+    {
+        max-width:21% !important;
+    }
+    #bartwochart
+    {
+        max-width:21% !important;
+    }
+    #barthreechart
+    {
+        max-width: 21% !important;
+    }
+    }
+    @media screen and (min-width:501px) and (max-width:800px) {
+        #baronechart
+        {
+            max-width:40% !important;
+        }
+        #bartwochart
+        {
+            max-width:40% !important;
+        }
+        #barthreechart
+        {
+            max-width:40% !important;
+        }
+        
+    }
+    @media screen and (min-width:800px) and (max-width:1200px){
+        #baronechart
+        {
+         max-width:80% !important;
+        } 
+        #bartwochart
+        {
+            max-width:80% !important;
+        }
+        #barthreechart
+        {
+            max-width:80% !important;
+        }
+     } */
+.recharts-legend-item { font-size: 0.75rem; }
+.addMtopForecast
+{
+    margin-top: 50px !important;
+    padding-left:5.36% !important;
+    padding-right:5.36%!important;
+}
+.addAccuracydata
+{
+    margin-top: 64px !important;
+    margin-bottom:32px !important;
+    font-size: 24px !important;
+    font-weight:700 !important;
+    color: rgba(29, 67, 112, 1) !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    line-height:42.56px !important;
+}
+.addmtopForaccuracy
+{
+    margin-top: 64px !important;
+}
+.addFontattributeforhead
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:22px !important;
+    font-weight:700 !important;
+    line-height:30px !important;
+    color: rgba(29, 67, 112, 1) !important;
+}
+
+.addFontattributeforheads
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size:16px !important;
+    font-weight:700 !important;
+    line-height:30px !important;
+    color: rgba(29, 67, 112, 1) !important;
+}
+.addsdg1font
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:14px !important;
+    line-height:18.62px !important;
+    color:rgba(29, 67, 112, 1) !important;
+    font-weight: 400 !important;
+}
+.addReportfontSize
+{
+    font-size:24px !important;
+    font-weight:700 !important;
+    line-height:42.56px !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    color: rgba(29, 67, 112, 1)!important;
+}
+.addMarginTopforagrregration
+{
+    margin-top:25px !important;
+    margin-bottom: 50px !important;
+    padding-left:5.36%!important;
+    padding-right:5.36%!important;
+}
+.addPaddingstartforaggregationbox
+{
+    padding-left:40px !important;
+    /* padding-right:20px !important; */
+    padding-bottom:53px !important;
+    background-color:rgba(235, 235, 237, 1) !important;
+    margin-right:16px !important;
+}
+.addmarginStartValue
+{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+ font-size: 32px !important;
+ font-weight: 700 !important;
+ line-height:42.56px !important;
+}
+@media screen and (max-width:1000px) {
+    .addmarginStartValue
+    {
+        margin-top:20px !important;
+    }
+    
+}
+.sdfEnrichedaccuracy
+{
+    background-color: rgba(4, 187, 241, 1)!important;
+}
+.forCastfontcolor
+{
+    color: rgba(17, 125, 175, 1) !important;
+    border: none;
+}
+.addManualmarginstart
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight:700 !important;
+    font-size:32px !important;
+    line-height:42.56px !important;
+}
+
+.addManualStart
+{
+    margin-left: 6rem !important;
+}
+.fontsize
+{
+    font-size: 14px !important;
+    font-weight:400 !important;
+    line-height:18.62px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.borderWidth
+{
+    width:5%;
+}
+.borderLastwidth
+{
+    width:2%;
+}
+.sdfForecastcolor
+{
+ background: rgba(146, 193, 47, 1) !important;
+}
+.productType
+{
+    color: rgba(4, 187, 241, 1) !important;
+}
+.addMarginLeftforleftgraph
+{
+    margin-left: 1rem;
+}
+.addMargintopforsdfForecast{
+    margin-top: 2rem !important;
+}
+.addmarginSdfaccuracy
+{
+    font-size:14px !important;
+    margin-left:2.2rem!important;
+    margin-top:1.8rem !important;
+    font-weight:400 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    line-height:18.62px !important;
+    color: rgba(29, 67, 112, 1) !important ;
+}
+.addmarginSdfEnaccuracy
+{
+    margin-top:1.8rem !important;
+    margin-left: 2rem !important;
+    font-size:14px!important;
+    font-weight:400 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    line-height:18.62px !important;
+    color: rgba(29, 67, 112, 1) !important ;
+}
+.addMarginimportanttop
+{
+    margin-top: 5rem !important;
+}
+.manualWidth
+{
+    width:0.5rem !important;
+    border-radius:50%;
+}
+.margintopped
+{
+    margin-top:2.5rem!important;
+    width:5% !important;
+}
+.margintopforround
+{
+    margin-top:2.3rem!important;
+}
+.margintopForsdfAccuracy
+{
+    margin-top:2rem !important;
+    font-size:14px!important;
+    line-height:18.62px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight:400 !important;
+    color: rgba(29, 67, 112, 1) !important;
+}
+
+.sdfFontsize
+{
+    font-size:0.8rem !important;
+}
+.radioButton1{
+    float: left;
+
+}
+.radioButton1:checked
+{
+    background-color:rgba(4, 187, 241, 1) !important;
+}
+.radioButton2{
+    float: left !important;
+}
+.radioButton2:checked
+{
+    background-color:rgba(208, 209, 210, 1) !important;
+    border-color:rgba(208, 209, 210, 1)!important ;
+}
+.addPaddingleft
+{
+    padding-left:2rem !important;
+}
+.addmarginlastLeft
+{
+    padding-left:3rem !important;
+}
+.addFontsizeofaggregation
+{
+    font-size:16px!important;
+    font-weight:600 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    line-height:21.28px !important;
+    color:rgba(0, 0, 0, 1) !important;
+    margin-top:35px !important;
+    margin-bottom:16px !important;
+}
+.addFontsizeforSelect
+{
+    font-size:16px !important;  
+    font-weight:400 !important;
+    line-height:21.28px !important;
+    color:rgba(17,125,175,1) !important;
+    padding-top:8px !important;
+    padding-bottom:8px !important;
+    padding-left:33px !important;
+    border-color:rgba(235, 235, 237, 1) !important;
+    background-color:rgba(255, 255, 255, 1)!important;
+}
+.paddtingtopForstartingcolumn
+{
+    padding-top:60px !important;
+    padding-bottom:59px !important;
+}
+.addMargintopForgraphmentioner
+{
+    margin-top: 4rem !important;
+}
+.addMargintopfortheBargraph
+{
+    margin-top:77.4px !important;
+}
+.addColumnmarginstart
+{
+    margin-left:32px !important;
+}
+#important
+{
+    font-size: 8px !important;
+    font-weight: bolder !important;
+}
+.addDemandvolumedatafont
+{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+font-weight:700 !important;
+font-size:24px !important;
+line-height:42.56px !important;
+margin-bottom:32px !important;
+}
+.displayAbsrel
+{
+    display: flex !important;
+    flex-direction: row !important;
+    text-align: center;
+}
+.chooseGraph
+{
+    /* padding-right: 1rem !important; */
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+}
+.addotherChoosegraph
+{
+  padding-top: 28px !important;
+}
+.margingraphtop
+{
+    margin-top:24px !important;
+    padding-bottom:16px !important;
+}
+@media screen and (width:1280px) {
+    .margingraphtop{
+    margin-top: 24px !important;
+    padding-bottom: 0px !important;
+    }
+}
+    
+.addChartmargintop
+{
+    padding-bottom:21px !important;
+}
+.addImportantpadleft
+{
+    padding-left: 1rem !important;
+}
+@media screen and (max-width:500px){
+    .addImportantpadleft
+{
+padding-left: 7% !important;
+}
+}
+.aggregate__single-value
+{
+    color: rgba(17, 125, 175, 1) !important;
+}
+.aggregate__clear-indicator
+{
+    color: rgba(17, 125, 175, 1)!important ;
+}
+.aggregate__dropdown-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.aggregate__clear-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.aggregate__indicator-separator
+{
+    background-color: rgba(29, 67, 112, 1) !important;
+}
+
+.aggregate__control
+{
+    border-color: rgba(235, 235, 237, 1) !important;
+}
+
+/*next*/
+.lags__clear-indicator
+{
+    color: rgba(17, 125, 175, 1)!important ;
+}
+.lags__dropdown-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.lags__clear-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.lags__indicator-separator
+{
+    background-color: rgba(29, 67, 112, 1) !important;
+}
+
+.lags__control
+{
+    border-color: rgba(235, 235, 237, 1) !important;
+}
+
+.lags__multi-value__remove
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+
+
+.snap__single-value
+{
+    color: rgba(17, 125, 175, 1) !important;
+}
+.snap__clear-indicator
+{
+    color: rgba(17, 125, 175, 1)!important ;
+}
+.snap__dropdown-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.snap__clear-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.snap__indicator-separator
+{
+    background-color: rgba(29, 67, 112, 1) !important;
+}
+
+.snap__control
+{
+    border-color: rgba(235, 235, 237, 1) !important;
+}
+
+/**/
+.category__single-value
+{
+    color: rgba(17, 125, 175, 1) !important;
+}
+.category__clear-indicator
+{
+    color: rgba(17, 125, 175, 1)!important ;
+}
+.category__dropdown-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.category__clear-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.category__indicator-separator
+{
+    background-color: rgba(29, 67, 112, 1) !important;
+}
+
+.category__control
+{
+    border-color: rgba(235, 235, 237, 1) !important;
+}
+/**/
+.current__clear-indicator
+{
+    color: rgba(17, 125, 175, 1)!important ;
+}
+.current__dropdown-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.current__clear-indicator
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.current__indicator-separator
+{
+    background-color: rgba(29, 67, 112, 1) !important;
+}
+
+.current__control
+{
+    border-color: rgba(235, 235, 237, 1) !important;
+}
+
+.current__multi-value__remove
+{
+    color: rgba(29, 67, 112, 1) !important;
+}
+.changedSdfforecastcolor
+{
+    background-color: rgba(255,0 ,0) !important;
+}
+
+.dropAlinment
+{
+    margin-left: -1rem!important;
+}
+.addOptioncolor
+{
+    color: rgba(17, 125, 175, 1) !important;
+}
+
+.Single-Line-Text{
+    display: inline;
+}
+#react-select-2-listbox
+{
+ width:92% !important;
+}
+#react-select-3-listbox
+{
+ width:92% !important;
+}
+#react-select-4-listbox
+{
+ width:92% !important;
+}
+#react-select-5-listbox
+{
+ width:92% !important;
+}
+#react-select-6-listbox
+{
+    width:92% !important;
+}
+#react-select-7-listbox
+{
+    width:92% !important;
+}
+#react-select-8-listbox
+{
+    width:92% !important;
+}
+/* ****************************************************************************************** */
+
+.left-panel{
+     background-color:rgba(235, 235, 237, 1) !important;
+}
+
+.filter-label{
+    font-size:12px!important;
+    font-weight:600 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    color:rgba(0, 0, 0, 1) !important;
+    letter-spacing: 0.6px;
+}
+
+.card-heading{
+    font-size: 18px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 700 !important;
+    color: rgba(29, 67, 112, 1) !important;
+}
+
+.value-label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    letter-spacing: 0.3px;
+    margin-top: 10px !important;
+    color: rgba(34, 24, 12, 1) !important;
+}
+
+.barchart-tooltip{
+    border: 0.1px solid lightgray !important;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.tooltip-label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+}
+
+.tooltip-value{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+}
+
+.bar-label{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.chart-x-axis{
+    font-size: 14px !important;
+}

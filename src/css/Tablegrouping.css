@@ -1,0 +1,181 @@
+.addmarginTopfortablegrouping {
+  margin-top: 40px !important;
+  padding-left: 5.36% !important;
+  padding-right: 5.36% !important;
+}
+.tablGroupingfontcriteria {
+  font-size: 28px !important;
+  font-weight: 400 !important;
+  line-height: 42.56px !important  ;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.addmargintopforcolumnseperation {
+  margin-top: 20px !important;
+  padding-top: 15px !important;
+  padding-left: 56px !important;
+  padding-right: 50px !important;
+  padding-bottom: 18px !important;
+}
+.addingColumnspacebetween {
+  margin-right: 54px !important;
+}
+.bordercolor {
+  border-color: rgba(235, 235, 237, 1) !important;
+}
+.tableBackgroundcolor {
+  background-color: rgba(4, 187, 241, 1);
+  color: rgba(255, 255, 255, 1);
+}
+.filterColor {
+  color: rgba(4, 187, 241, 1) !important;
+}
+.buttonClr {
+  background-color: rgba(4, 187, 241, 1) !important;
+  color: rgba(255, 255, 255, 1) !important;
+  border-radius: 4px !important;
+  margin-right: 0.833% !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 8px !important;
+  font-size: 16px !important;
+  padding-bottom: 8px !important;
+}
+
+.signOffclr {
+  background-color: rgba(218, 56, 81, 1) !important;
+  color: rgba(255, 255, 255, 1) !important;
+  font-size: 16px !important;
+  border-radius: 4px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+.linkUnstyled {
+  color: inherit !important;
+  text-decoration: inherit !important;
+}
+.addtabWidth {
+  width: 1714px !important;
+}
+.tableGroupingfontcolor {
+  color: rgba(146, 193, 47, 1) !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 18.62px !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.addcolumnDatainsideborder {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-weight: 600;
+  font-size: 14px;
+}
+.addMarginfordropdown {
+  margin-top: 16px !important;
+  margin-left: 36px !important;
+  margin-right: 48px !important;
+  margin-bottom: 44px !important;
+}
+.addDropdownPadding {
+  padding-top: 14px !important;
+  padding-left: 33px !important;
+  padding-bottom: 17px !important;
+  font-size: 16px !important;
+  line-height: 21.28px !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-weight: 400 !important;
+  border-color: rgba(235, 235, 237, 1) !important;
+  border-style: solid !important;
+  fill: #ffffff !important;
+}
+.addAttributetomargintopData {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 28px !important;
+  line-height: 42.56px !important;
+  margin-top: 54px !important;
+}
+.addMargintopforDFUtable {
+  margin-top: 32px !important;
+}
+.addTabledataheadpadding {
+  text-align: center;
+  padding-bottom: 37px !important;
+  font-size: 18px !important;
+  padding-top: 36px !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-weight: 700 !important;
+  line-height: 23.94px !important;
+}
+.addFilterdatapadding {
+  padding-top: 35px !important;
+  padding-bottom: 36px !important;
+  text-align: center !important;
+  font-size: 16px !important;
+  line-height: 21.28px !important;
+  font-weight: 400px !important;
+  line-height: 21.28px !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+.addTabledatapadding {
+  font-size: 16px !important;
+  line-height: 21.28px !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  text-align: center !important;
+  padding-top: 31px !important;
+  padding-bottom: 39px !important;
+  font-weight: 400 !important;
+}
+.addfooterPaddingleft {
+  padding-left: 1.875% !important;
+  margin-top: 32px !important;
+}
+.addColumwidth {
+  width: 86.666667% !important;
+}
+.addSignlecolumwidth {
+  width: 13.333333% !important;
+  padding-top: 9px !important;
+}
+.addmarginleftPagination {
+  margin-right: 7px !important;
+  line-height: 24px !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  color: rgba(42, 63, 88, 1) !important;
+}
+.addMargintopforbottomTable {
+  margin-top: 32px !important;
+  padding-left: 20px !important;
+}
+.addDemandmargintop {
+  margin-top: 16px !important;
+  font-size: 95% !important;
+}
+.addDFUfontstyle {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 98% !important;
+  line-height: 18.62px !important;
+}
+.Dfuotherfonts {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 18.62 !important;
+}
+.addPaginationpadding {
+  padding-left: 1.536% !important;
+  width: 16.5% !important;
+  padding-top: 5px !important;
+}
+
+/* ******************************************************************************************************* */
+.table-grouping-heading
+{
+    font-size: 18px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 700 !important;
+    color: rgba(29, 67, 112, 1) !important;
+}
