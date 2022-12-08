@@ -1,0 +1,83 @@
+{
+  "name": "demo-ui",
+  "author": "K",
+  "email": "",
+  "licence": "MIT",
+  "version": "0.3.0",
+  "private": false,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "ie 11"
+    ]
+  },
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@date-io/moment": "^1.3.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.19",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@material-ui/pickers": "^3.3.10",
+    "@material-ui/styles": "^4.11.5",
+    "@microsoft/microsoft-graph-client": "^2.2.1",
+    "@okta/okta-react": "^3.0.11",
+    "apexcharts": "^3.35.5",
+    "autosuggest-highlight": "^3.3.4",
+    "autosuggest-highlight-with-opts": "^3.1.2",
+    "axios": "^0.27.2",
+    "chart.js": "^2.9.4",
+    "chartjs-plugin-datalabels": "^0.7.0",
+    "clsx": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "fg-loadcss": "^3.1.0",
+    "formik": "^2.2.9",
+    "history": "^4.9.0",
+    "lodash": "latest",
+    "material-table": "^1.69.3",
+    "material-ui-pickers": "^2.2.4",
+    "moment": "^2.29.4",
+    "msal": "^1.4.17",
+    "prop-types": "^15.8.1",
+    "react": "^16.8.6",
+    "react-apexcharts": "^1.4.0",
+    "react-app-polyfill": "^1.0.6",
+    "react-chartjs-2": "^2.11.2",
+    "react-dom": "^16.8.6",
+    "react-flatpickr": "^3.10.13",
+    "react-loadable": "^5.5.0",
+    "react-perfect-scrollbar": "^1.5.3",
+    "react-redux": "^7.2.9",
+    "react-router-dom": "^5.3.3",
+    "react-scripts": "^3.4.1",
+    "react-swipeable-views": "^0.13.9",
+    "recompose": "^0.30.0",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.55.0",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    
+    "typescript": "^3.9.10",
+    "yup": "^0.31.1"
+  }
+}
